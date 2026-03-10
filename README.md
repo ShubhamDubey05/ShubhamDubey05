@@ -1,8 +1,8 @@
-<!-- ====== Hi Animation ====== -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&width=600&lines=Hi+👋,+I'm+Shubham+Dubey;MERN+Stack+Developer+|+Java+Enthusiast;Building+Smart+Web+Apps)](https://git.io/typing-svg)
+# 👋 Hi, I'm Shubham Dubey
+**💻 MERN Stack Developer | ⚡ Java & DSA Enthusiast**  
+**🚀 Building Smart Web Apps & Contributing to Open Source**
 
 ---
-
 ## 💻 About Me
 I'm a passionate **MERN Stack Developer** and **Java & DSA Enthusiast**, currently building real-world web applications and contributing to open-source projects.  
 I love **learning new technologies** and applying them in creative projects.
@@ -48,12 +48,6 @@ I love **learning new technologies** and applying them in creative projects.
 
 ---
 
-## 📊 GitHub Stats
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamdubey&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdubey&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dubey-711aa3171/)  
@@ -70,9 +64,6 @@ I love **learning new technologies** and applying them in creative projects.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdubey&theme=radical)
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamdubey&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdubey&layout=compact&theme=radical)
 
 ⚡ **Fun Fact:** I love turning ideas into **real-world web applications** and contributing to **open-source**!
 
