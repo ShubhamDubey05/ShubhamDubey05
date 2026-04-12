@@ -49,9 +49,9 @@ I love **learning new technologies** and applying them in creative projects.
 
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dubey-711aa3171/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge)](https://shubhamdubey.github.io/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham@email.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamdubey05)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge)](https://shubham-portfolio-topaz-seven.vercel.app/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamdubey05092001@email.com)  
 
 ---
 
@@ -61,7 +61,7 @@ I love **learning new technologies** and applying them in creative projects.
 
 🌟 Contributed to multiple repositories including SmartNotes, AMBI Chatbot, Dice Game React, Portfolio Website and more.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdubey&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamDubey05&theme=radical)
 
 
 ⚡ **Fun Fact:** I love turning ideas into **real-world web applications** and contributing to **open-source**!
