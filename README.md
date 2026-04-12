@@ -39,12 +39,11 @@ I love **learning new technologies** and applying them in creative projects.
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
 | **Portfolio Website** | Personal Portfolio | React, Tailwind, Framer motion | [Live](https://shubham-portfolio-topaz-seven.vercel.app/) |
-| **SmartNotes** | AI-Powered Notes Organizer | React, Node.js, MongoDB | [Live](#) |
-| **AMBI Chatbot** | AKTU Academic Assistant | React, Node.js, MongoDB | [Live](#) |
-| **Dice Game** | Fun React Dice Game | React, JavaScript | [Live](#) |
-| **Task Manager** | Task & Project Organizer | MERN Stack | [Live](#) |
-
-> 🔹 Replace `[Live](#)` with actual deployed URLs
+| **SmartNotes** | AI-Powered Resume Builder | React, Node.js, MongoDB, Express.js | [Live](#) |
+| **Eventora** | Book Your online event in one click | React, Node.js, MongoDB, Express.js | [Live](#) |
+| **Reciepe Khao** | This is receipe app to add your receipe |React, Node.js, MongoDB, Express.js | [Live](#) |
+| **Chatify** | Real time chat application |React, Node.js, MongoDB, Express.js, Socket.IO | [Live](#) |
+| **Hello Dev** | Full authentication system | React, Node.js, MongoDB, Express.js , Brevo | [Live](#) |
 
 ---
 
