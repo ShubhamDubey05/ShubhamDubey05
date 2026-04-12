@@ -59,7 +59,7 @@ I love **learning new technologies** and applying them in creative projects.
 
 ## 📊 Activity Overview
 
-🌟 Contributed to multiple repositories including SmartNotes, AMBI Chatbot, Dice Game React, Portfolio Website and more.
+🌟 Contributed to multiple repositories including SmartNotes, AMBI Chatify, Eventora, Portfolio Website and more.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamDubey05&theme=radical)
 
