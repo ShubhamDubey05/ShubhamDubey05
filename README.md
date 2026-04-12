@@ -38,10 +38,10 @@ I love **learning new technologies** and applying them in creative projects.
 
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
+| **Portfolio Website** | Personal Portfolio | React, Tailwind | [Live](https://shubham-portfolio-topaz-seven.vercel.app/) |
 | **SmartNotes** | AI-Powered Notes Organizer | React, Node.js, MongoDB | [Live](#) |
 | **AMBI Chatbot** | AKTU Academic Assistant | React, Node.js, MongoDB | [Live](#) |
 | **Dice Game** | Fun React Dice Game | React, JavaScript | [Live](#) |
-| **Portfolio Website** | Personal Portfolio | React, Tailwind | [Live](https://shubham-portfolio-topaz-seven.vercel.app/) |
 | **Task Manager** | Task & Project Organizer | MERN Stack | [Live](#) |
 
 > 🔹 Replace `[Live](#)` with actual deployed URLs
